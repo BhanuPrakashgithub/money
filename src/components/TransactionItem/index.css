@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.lists {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  border: 2px solid black;
+}
+.paras {
+  color: #d7dfe9;
+  margin: 20px;
+}
+.image {
+  width: 80px;
+  height: 40px;
+  margin: 10px;
+}

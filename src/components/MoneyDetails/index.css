@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.fast1 {
+  display: flex;
+  flex-direction: row;
+}
+.slow1 {
+  background-color: #ecfccb;
+  border-radius: 20px;
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  border: 3px solid #84cc16;
+}
+.im1 {
+  width: 60px;
+  height: 60px;
+  align-self: center;
+  margin: 20px;
+}
+.stand1 {
+  display: flex;
+  flex-direction: column;
+}
+.para3 {
+  color: #7e858e;
+  margin: 20px;
+}
+.head3 {
+  color: #334155;
+  margin: 20px;
+}
+.slow2 {
+  background-color: #cffafe;
+  border-radius: 20px;
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  border: 3px solid #06b6d4;
+}
+.slow3 {
+  background-color: #ede9fe;
+  border-radius: 20px;
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  border: 3px solid #7c3aed;
+}
